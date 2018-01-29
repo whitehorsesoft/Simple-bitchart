@@ -25,7 +25,7 @@ returns:
 " 15: 1111, f"
 ```
 To show chart with negative integers, use 'true' for second parameter:
-```
+```ruby
 PrintBinaryChart(4, true)
 ```
 returns:
